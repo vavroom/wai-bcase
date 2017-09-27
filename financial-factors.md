@@ -5,26 +5,8 @@ title: "Financial Factors"
 order: 4
 ---
 
-## Page Contents
-
-
--   [Introduction](#intro)
--   [Identifying Financial Factors for a Specific Organization](#custom)
--   [Increases Website Use](#increase-use)
--   [Direct Cost Savings](#direct)
--   [Cost Considerations](#invest)
--   [Decreasing Costs](#decreasing)
-
 ## Introduction
 {:#intro}
-
-
-This page is part of a resource suite that describes the
-[**social**](social-factors.html), [**technical**](technical-factors.md), financial, and
-[**legal and policy**](legal-policy-factors.html) factors relevant to [developing a
-customized business case for Web accessibility](Overview.html) for a
-specific organization.
-
 An organization's efforts to make its website accessible often have a
 financial impact, and can result in positive return on investment and
 cost efficiencies. Financial costs and benefits in developing accessible
