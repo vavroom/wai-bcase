@@ -7,6 +7,7 @@ order: 4
 
 ## Introduction
 {:#intro}
+
 An organization's efforts to make its website accessible often have a
 financial impact, and can result in positive return on investment and
 cost efficiencies. Financial costs and benefits in developing accessible
